@@ -294,8 +294,7 @@ export default function StockPage() {
         <div style={styles.navLinks}>
           <a href="#" style={{...styles.navLink, ...styles.activeNavLink}}>Stock Dashboard</a>
           <a href="/correlation" style={styles.navLink}>Correlation Heatmap</a>
-          <a href="#" style={styles.navLink}>Watchlist</a>
-          <a href="#" style={styles.navLink}>Settings</a>
+          
         </div>
       </nav>
 
